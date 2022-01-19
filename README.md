@@ -1,1 +1,1 @@
-# -react-riakuto2
+# react-riakuto2
