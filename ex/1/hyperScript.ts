@@ -17,6 +17,6 @@ h(
   h(
     'p',
     "so it's just like a templatein engine, \n",
-    'but easy to inline with javascript \n',
+    'but easy to inline with javascript\n',
   ),
 ),
