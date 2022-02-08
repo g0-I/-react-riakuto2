@@ -1,4 +1,4 @@
-“import { VFC } from 'react';
+import { VFC } from 'react';
 import { Header, Icon, Item } from 'semantic-ui-react';
 
 export type Character = {
@@ -38,4 +38,4 @@ const CharacterList: VFC<Props> = (props) => {
   );
 };
 
-export default CharacterList;”
+export default CharacterList;
