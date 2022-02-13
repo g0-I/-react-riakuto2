@@ -10,7 +10,7 @@ h(
   h('nav.menu', {style: 'background-color': '#f22'}),
     h('ul', list.map((n) => h('li', n)))
 ),
- 
+
 h(
   'body.artile',
   h('h2', 'content title', { sytle: {'background-color': '#f22'}}),
