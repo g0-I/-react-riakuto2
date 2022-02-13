@@ -1,5 +1,4 @@
 import h from 'hyperscript';
-
 const list = ['one', 'two', 'three'];
 
 h(
